@@ -1,0 +1,1 @@
+../../Bioinformatics/SCOP2/SCOP2_loadData_AAstats.py

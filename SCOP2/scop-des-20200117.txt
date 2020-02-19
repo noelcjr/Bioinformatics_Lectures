@@ -1,0 +1,1 @@
+../../Bioinformatics/SCOP2/files/scop-des-20200117.txt
